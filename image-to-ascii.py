@@ -1,3 +1,7 @@
+# Name: image-to-ascii.py
+# Author: Joel Mathew
+# Date: February 8th, 2025
+
 from PIL import Image
 import numpy as np
 
